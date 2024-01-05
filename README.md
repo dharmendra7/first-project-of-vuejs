@@ -16,7 +16,7 @@ Welcome to my first VueJS project! This simple web application allows users to f
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/dharmendra7/first-project-of-vuejs.git
     ```
 
 2. Open the project directory in your code editor.
