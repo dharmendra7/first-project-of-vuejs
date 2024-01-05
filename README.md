@@ -43,8 +43,3 @@ I used the [Random User Generator API](https://randomuser.me/) to fetch random u
 
 - [Random User Generator API](https://randomuser.me/): The API providing random user data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to explore and modify the code to enhance the project further! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Happy coding!
